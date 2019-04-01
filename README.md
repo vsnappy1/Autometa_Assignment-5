@@ -2,10 +2,10 @@
 The program checks the acceptance of a given string in a given DFA(Transition Table)
 
 INPUT:
-Number of states
-Transition Table
-Number of final states
-Final states
+Number of states,
+Transition Table,
+Number of final states,
+Final states,
 Test string
 
 OUTPUT:
